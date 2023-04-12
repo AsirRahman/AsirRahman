@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AsirRahman
-- 👀 I’m interested in Game Dev, Data science and Machine learning.
-- 🌱 I’m currently learning Python
+- Hello! My name is Asir Rahman, so you can call me just Asir :). Im interested in programming for 2 years and Im currently learning Python. Im now learning modules like PyGame, Numpy (his are the main modules that Im learning).
 
 <!---
 AsirRahman/AsirRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
